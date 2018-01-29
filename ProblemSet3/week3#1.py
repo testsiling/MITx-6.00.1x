@@ -1,6 +1,6 @@
 '''
-MIT 6.00.1x Week 3 Problem set
-Problem 1
+MIT 6.00.1x Week 3 Problem set: Hangman
+Problem 1: 
 '''
 def isWordGuessed(secretWord, lettersGuessed):
     '''

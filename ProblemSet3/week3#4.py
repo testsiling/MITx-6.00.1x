@@ -1,5 +1,5 @@
 '''
-MIT 6.00.1x Week 3 Problem set
+MIT 6.00.1x Week 3 Problem set: Hangman
 Problem 4
 '''
 def hangman(secretWord):
